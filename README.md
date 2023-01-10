@@ -1,5 +1,5 @@
 ## Title
-Microsoft Stocks Data
+Microsoft Stocks Data - Timeseries Analysis
 
 ## Contents
 This folder includes jupyter notebooks used for "Data Wrangling", "Interactive Visualizations", "Timeseries Analysis", and "Stock Price Prediction" using various methods.
