@@ -10,6 +10,6 @@ This folder includes jupyter notebooks used for the following with Interactive V
 ## Data
 The data used is obtained from Kaggle: https://www.kaggle.com/code/aleynakrmz/microsoft-stock-eda-sma-ewm-arima-sarimax-lstm/data
 
-## Recommended environment for viewing interactive visualizations for EDA section of the code:
+#### Recommended environment for viewing interactive visualizations for EDA section of the code:
 https://nbviewer.org/github/JasmineVaghei/Microsoft-Stocks-Data/blob/main/Microsoft%20Stock_EDA.ipynb
 
