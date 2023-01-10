@@ -2,12 +2,9 @@
 Microsoft Stocks Data - Timeseries Analysis
 
 ## Contents
-This folder includes jupyter notebooks used for the following with Interactive Visualizations:
-\\
-1- Exploratory Data Analysis (EDA) 
-\\
-2- Timeseries Statistical Analysis (TSA)
-\\
+This folder includes jupyter notebooks used for the following with Interactive Visualizations:  
+1- Exploratory Data Analysis (EDA)  
+2- Timeseries Statistical Analysis (TSA)  
 3- Stock Price Prediction
 
 ## Data
