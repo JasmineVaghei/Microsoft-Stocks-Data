@@ -5,7 +5,7 @@ Microsoft Stocks Data - Timeseries Analysis
 This folder includes jupyter notebooks used for the following with Interactive Visualizations:  
 1- Exploratory Data Analysis (EDA)  
 2- Timeseries Statistical Analysis (TSA)  
-3- Stock Price Prediction
+3- Stock Price Prediction using ARIMA
 
 ## Data
 The data used is obtained from Kaggle: https://www.kaggle.com/code/aleynakrmz/microsoft-stock-eda-sma-ewm-arima-sarimax-lstm/data
